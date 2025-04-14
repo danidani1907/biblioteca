@@ -25,18 +25,18 @@ $livros = $biblioteca->listarLivros();
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f8f8;
+            background-color:#e5c5f1;
             padding: 30px;
         }
         h2 {
             text-align: center;
-            color: #333;
+            color: #FF8DA1;
         }
         table {
             width: 80%;
             margin: 0 auto;
             border-collapse: collapse;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(186, 0, 0, 0.1);
             background-color: white;
         }
         th, td {
